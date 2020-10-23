@@ -57,7 +57,7 @@ TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [Path(__file__).parent.parent.joinpath("templates")],
-       # 'DIRS': ['/home/mannycalavera/Dev/trydjango/src/templates/'],
+       #'DIRS': ['/home/mannycalavera/Dev/trydjango/src/templates/'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
