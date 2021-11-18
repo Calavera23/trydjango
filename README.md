@@ -1,1 +1,1 @@
-# kotleti
+# trydjango project
